@@ -7,7 +7,8 @@
 - Python で Outlook を操作してメールの下書きまで作成
 - メール送信は自分で行う (誤送信防止)
 - 日にちの入力は自動化
-- 時刻の入力はツール上で手動入力 (したい)
+- 時刻や業務内容の入力はツール上で手動入力 (したい)
+- 入力された時刻や業務内容は config.ini に保存されて次回はその内容を表示
 - 最終的には Python の無い環境でも実行したいので exe 化
 
 ## ツール
@@ -23,3 +24,4 @@
 - [Python tkinterでボタンを押したときにラジオボタンで選択されている内容を取得したい](https://teratail.com/questions/239658)
 - [PythonのTkinterを使ってみる](https://qiita.com/nnahito/items/ad1428a30738b3d93762)
 - [Tkinter、Textウィジェットの使い方](https://blog.narito.ninja/detail/100/)
+- [Pythonのファイルをexe化する方法【初心者向け】](https://techacademy.jp/magazine/18963)
