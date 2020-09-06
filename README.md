@@ -21,3 +21,5 @@
 - [pythonプログラムにおける設定ファイル管理モジュール～configparserの使い方と注意点～](https://qiita.com/mimitaro/items/3506a444f325c6f980b2)
 - [configparser --- 設定ファイルのパーサー](https://docs.python.org/ja/3/library/configparser.html)
 - [Python tkinterでボタンを押したときにラジオボタンで選択されている内容を取得したい](https://teratail.com/questions/239658)
+- [PythonのTkinterを使ってみる](https://qiita.com/nnahito/items/ad1428a30738b3d93762)
+- [Tkinter、Textウィジェットの使い方](https://blog.narito.ninja/detail/100/)
