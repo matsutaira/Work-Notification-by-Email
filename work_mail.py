@@ -5,6 +5,10 @@ import configparser
 import datetime
 import win32gui, win32con
 
+#pyinstaller の --noconsole が上手く動かないので以下でコンソール画面を非表示にする
+hide = win32gui.GetForegroundWindow()
+win32gui.ShowWindow(hide , win32con.SW_HIDE)
+
 #configparseの宣言とiniファイルの読み込み
 config_ini = configparser.ConfigParser()
 config_ini.read('./config.ini', encoding='utf-8')

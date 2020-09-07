@@ -25,3 +25,4 @@
 - [PythonのTkinterを使ってみる](https://qiita.com/nnahito/items/ad1428a30738b3d93762)
 - [Tkinter、Textウィジェットの使い方](https://blog.narito.ninja/detail/100/)
 - [Pythonのファイルをexe化する方法【初心者向け】](https://techacademy.jp/magazine/18963)
+- [ythonでコンソールウィンドウを非表示にする方法は？](https://www.it-swarm.dev/ja/python/python%E3%81%A7%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%89%E3%82%A6%E3%82%92%E9%9D%9E%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%81%AF%EF%BC%9F/957922839/)
